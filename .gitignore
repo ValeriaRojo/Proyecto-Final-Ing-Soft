@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+env/
+
+# Streamlit cache
+.streamlit/
+
+# Archivos de notebooks
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# MacOS basura
+.DS_Store
+
+# Datos grandes
+*.csv
+*.xlsx
+data/*
+!data/README.md
